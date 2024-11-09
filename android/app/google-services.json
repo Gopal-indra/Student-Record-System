@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "723161572870",
+    "firebase_url": "https://student-record-f8716-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "student-record-f8716",
+    "storage_bucket": "student-record-f8716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723161572870:android:4179bd9b83fa5d55a48587",
+        "android_client_info": {
+          "package_name": "com.example.minor_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQGYgsX8Yp_0ZmW3XQBes4IBRZI1QuuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
